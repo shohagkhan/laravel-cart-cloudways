@@ -1,0 +1,47 @@
+[
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\app\\Http\\Controllers",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\app\\Http\\Controllers",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ji4wJnPaQd1lYpuq"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\app\\Models",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\app\\Models",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "cJhPMlu0wvtjxoa3"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\database",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\database",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "N7bn8YmAgBSPDI0E"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\resources\\views",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\resources\\views",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "ybD71wUgcqklLaYf"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\routes\\web.php",
+        "parent_id": null,
+        "fsPath": "c:\\Users\\SHOHAG\\Desktop\\workspace\\laravel-cart-cloudways\\routes\\web.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "J2X4BfeuN9bEAHYh"
+    }
+]
